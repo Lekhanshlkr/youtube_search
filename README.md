@@ -10,6 +10,8 @@ To make an API to fetch latest videos sorted in reverse chronological order of t
 * Django Rest Framework
 * YouTube data v3 API
 * HTML
+* CSS
+* Dockerfile
 
 
 ## Setup and Deployment

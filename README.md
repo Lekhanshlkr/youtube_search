@@ -62,7 +62,7 @@ API Usage Panel in Google Console  ![](screenshots/apiconsole.png) <br>
 
 * The API can be called continuously in background with some interval using `asyncio` and instead of fetching 9 results, it can be limited to 1-2 results per call.
 
-* The search parameter `publishedAt` can be set to less than _'30 minutes'_ from current time so that everytime the API is called, it only displays the results of videos which have been published in the last 30 minutes.
+* The search parameter `publishedAt` can be set to less than _'30 minutes from current time'_ so that everytime the API is called, it only displays the results of videos which have been published in the last 30 minutes.
 
 * A support for supplying multiple API keys can be added by supplying a _'list'_ in the `YOUTUBE_DATA_API_KEY` variable and then running a _'try except'_ block to check whether the API has been fully exhausted or not.
 
@@ -74,6 +74,9 @@ API Usage Panel in Google Console  ![](screenshots/apiconsole.png) <br>
 ## Feedback
 
 If you have any feedback, please reach out to me at lekhilkr@gmail.com
+
+<br>
+<br>
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 

@@ -73,7 +73,7 @@ API Usage Panel in Google Console  ![](screenshots/apiconsole.png) <br>
 
 ## Feedback
 
-If you have any feedback, please reach out to me at lekhilkr@gmail.com
+If you have any feedback, please reach out to me at lekhansh.ruprela@gmail.com
 
 <br>
 <br>
